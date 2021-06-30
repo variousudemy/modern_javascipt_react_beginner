@@ -6,7 +6,7 @@
 // const fnc02 = function (str) {
 //   return str;
 // };
-
+//
 // console.log(fnc02("bb"));
 
 // const fnc03 = (str) => str;
