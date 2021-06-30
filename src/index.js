@@ -3,7 +3,7 @@
 //   return str;
 // }
 
-// const fnc02 = function (str) {
+// const  fnc02 = function (str) {
 //   return str;
 // };
 //
